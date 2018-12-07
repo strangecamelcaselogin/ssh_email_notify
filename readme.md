@@ -5,6 +5,7 @@
 >       sudo mkdir ssh_email_notify
 
 2. in /opt/ssh_email_notify 
+
 2.1 create ssh_email_notify.sh and give premmision to execute (chmod +x ssh_email_notify.sh)
 >       sudo touch ssh_email_notify.sh  
 >       sudo chmod +x ssh_email_notify.sh
